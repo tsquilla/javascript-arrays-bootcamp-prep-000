@@ -6,7 +6,7 @@ function addElementToBeginningOfArray(){
   
 }
 
-function destructivelyAddElementToBeginningOfArray(chocolateBars, chocolateBar){
-  chocolateBars.push(chocolateBars, "butterfinger")
-  return chocolateBars
+function destructivelyAddElementToBeginningOfArray(){
+  var oldChocolate = 
+  return oldChocolate
 }
